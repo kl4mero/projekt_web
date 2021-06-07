@@ -664,6 +664,7 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .footer-info h1 {
   color: white;
